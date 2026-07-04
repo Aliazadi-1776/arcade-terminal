@@ -156,20 +156,6 @@ python menu.py
 | ⏎ Enter | Start selected game |
 | Q | Quit |
 
----
-
-# 💡 Why this project?
-
-Instead of building graphical games, this project focuses on creating a nostalgic arcade experience entirely inside the terminal.
-
-It demonstrates:
-
-- Terminal rendering
-- Keyboard input handling
-- Game loops
-- Collision detection
-- Modular project architecture
-- Retro UI design
 
 ---
 
