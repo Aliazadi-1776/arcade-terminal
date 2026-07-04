@@ -131,13 +131,13 @@ Terminal-Arcade-Hub/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Terminal-Arcade-Hub.git
+git clone https://github.com/Aliazadi-1776/arcade-terminal.git
 ```
 
 Go to the project
 
 ```bash
-cd Terminal-Arcade-Hub
+cd arcade-terminal
 ```
 
 Run the launcher
